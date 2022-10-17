@@ -1,2 +1,2 @@
 email : woojw6012@naver.com
-gitID : woojw6012@naver.com
+gitID : woojw6012
